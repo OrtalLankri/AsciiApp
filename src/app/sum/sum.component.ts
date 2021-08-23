@@ -9,6 +9,7 @@ export class SumComponent implements OnInit {
    
   
   sum:string | undefined;
+  
   constructor() {
     
    }
